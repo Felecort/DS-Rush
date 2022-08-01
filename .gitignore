@@ -1,0 +1,18 @@
+
+# Folders
+.vscode
+catboost_info
+venv
+dataset
+runs
+
+#  File extensions
+*.xlsx
+*.html
+*.json
+*.jpg
+*.jpeg
+*.png
+*.csv
+*.pyc
+*checkpoint.ipynb
