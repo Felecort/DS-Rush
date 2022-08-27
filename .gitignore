@@ -13,6 +13,5 @@ runs
 *.jpg
 *.jpeg
 *.png
-*.csv
 *.pyc
 *checkpoint.ipynb
